@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>MainController.qml</file>
+        <file>Pair.qml</file>
+        <file>BridgeClient.qml</file>
+    </qresource>
+</RCC>
